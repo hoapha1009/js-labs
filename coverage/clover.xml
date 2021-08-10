@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1628580526215" clover="3.2.0">
+  <project timestamp="1628580526215" name="All files">
+    <metrics statements="13" coveredstatements="13" conditionals="8" coveredconditionals="8" methods="8" coveredmethods="8" elements="29" coveredelements="29" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1"/>
+    <file name="00-cal-s.js" path="D:\Learning\JS\js-labs\src\00-cal-s.js">
+      <metrics statements="13" coveredstatements="13" conditionals="8" coveredconditionals="8" methods="8" coveredmethods="8"/>
+      <line num="2" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="5" count="4" type="stmt"/>
+      <line num="6" count="16" type="stmt"/>
+      <line num="8" count="4" type="stmt"/>
+      <line num="12" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="14" count="4" type="stmt"/>
+      <line num="18" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="20" count="16" type="stmt"/>
+      <line num="24" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="4" type="stmt"/>
+      <line num="27" count="16" type="stmt"/>
+      <line num="29" count="4" type="stmt"/>
+    </file>
+  </project>
+</coverage>
